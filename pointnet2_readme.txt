@@ -1,0 +1,1 @@
+pointnet2 relies on this repository https://github.com/erikwijmans/Pointnet2_PyTorch/tree/master 
